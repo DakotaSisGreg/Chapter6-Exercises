@@ -1,5 +1,18 @@
 package Exercise5;
 
+/**
+ * Class: UltimateGeneric
+ * ITEC 2150 - 05
+ *
+ * author Dakota Sison Gregory
+ * version 1.0
+ * course ITEC 2150 Spring 2024
+ * written April 23, 2024
+ *
+ * This class is designed to provide a suite of generic methods that perform various operations
+ * such as sorting, swapping, and displaying elements of any generic type arrays.
+ * */
+
 public class UltimateGeneric {
 
     public static <T> void swap(T[] array, int index1, int index2) {

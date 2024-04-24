@@ -1,5 +1,22 @@
 package Exercise1;
 
+/**
+ * Class: Palindrome
+ * ITEC 2150 - 05
+ *
+ * author Dakota Sison Gregory
+ * version 1.0
+ * course ITEC 2150 Spring 2024
+ * written April 23, 2024
+ *
+ * This class is designed to check if a given string is a palindrome.
+ * A palindrome is a word, phrase, number, or other sequence of characters
+ * which reads the same backward as forward, ignoring spaces, punctuation, and capitalization.
+ */
+
+
+
+
 public class Palindrome implements ITester<String>{
 
     @Override

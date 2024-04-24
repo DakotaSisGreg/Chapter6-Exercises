@@ -1,5 +1,21 @@
 package Exercise2;
 
+/**
+ * Class: SwapperTester
+ * ITEC 2150 - 05
+ *
+ * author Dakota Sison Gregory
+ * version 1.0
+ * course ITEC 2150 Spring 2024
+ * written April 23, 2024
+ *
+ * This class serves as a testing environment to demonstrate the functionality of the PalindromeSwapper class.
+ * It tests the swapping functionality with various data types and structures, ensuring the swap method
+ * behaves as expected under different conditions. The main method provides several test cases that
+ * illustrate the practical use of the swap functionality in a generic context.
+ */
+
+
 public class SwapperTester {
 
     public static void main(String[] args) {

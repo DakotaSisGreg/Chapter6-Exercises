@@ -1,5 +1,21 @@
 package Exercise3;
 
+/**
+ * Class: ShowElementTester
+ * ITEC 2150 - 05
+ *
+ * author Dakota Sison Gregory
+ * version 1.0
+ * course ITEC 2150 Spring 2024
+ * written April 23, 2024
+ *
+ * This class serves as a test case for the ShowElement class.
+ * It tests the displayArray method with arrays of different types to ensure
+ * that it functions correctly across a variety of data types. The main method
+ * provides use cases that demonstrate the utility and flexibility of the displayArray method.
+ */
+
+
 public class ShowElementTester {
 
     public static void main(String[] args) {

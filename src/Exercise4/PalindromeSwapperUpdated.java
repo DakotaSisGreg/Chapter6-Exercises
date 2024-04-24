@@ -1,5 +1,20 @@
 package Exercise4;
 
+/**
+ * Class: PalindromeSwapperUpdated
+ * ITEC 2150 - 05
+ *
+ * author Dakota Sison Gregory
+ * version 1.0
+ * course ITEC 2150 Spring 2024
+ * written April 23, 2024
+ *
+ * This class provides an updated implementation of the PalindromeSwapper.
+ * It includes enhanced functionality for swapping elements in an array with generic types.
+ * This version ensures that the swapping logic is optimized
+ */
+
+
 public class PalindromeSwapperUpdated {
 
     /**
